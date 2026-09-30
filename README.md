@@ -3,4 +3,4 @@ Ventura, Dwayne
 Next.js
 
 Live Website:
-https://pangasinan-heritage-5v1xllybs-dwayne-bading.vercel.app/
+https://pangasinan-heritage-umuu.vercel.app/
